@@ -6,4 +6,5 @@ Link do projeto: https://pokedex-saak01.netlify.app/
 
 
 
- <img align="center" alt="sak-Python" height="30" width="40" src="https://i.imgur.com/S18bpHI.png">
+ <img align="center" alt="sak-Python" height="400" width="400" src="https://i.imgur.com/S18bpHI.png">
+ <img align="center" alt="sak-Python" height="400" width="400" src="https://i.imgur.com/NNe3oov.png">
