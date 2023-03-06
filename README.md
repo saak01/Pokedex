@@ -5,5 +5,5 @@ O projeto foi desenvolvido com as tecnologias: Angular,Typescript,HTML e SCSS. C
 Link do projeto: https://pokedex-saak01.netlify.app/
 
 
-https://i.imgur.com/S18bpHI.png
 
+ <img align="center" alt="sak-Python" height="30" width="40" src="https://i.imgur.com/S18bpHI.png">
